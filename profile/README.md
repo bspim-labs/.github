@@ -18,4 +18,4 @@ Visit [bluestone-labs-landing.vercel.app](https://bluestone-labs-landing.vercel.
 
 ---
 
-*Community projects. Not official Bluestone products.*
+*Community projects. Not official Bluestone PIM products.*
